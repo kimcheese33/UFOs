@@ -10,7 +10,7 @@ The table on this site contained a lot of UFO sightings, which would be a lot of
 
 <img src="https://github.com/kimcheese33/UFOs/blob/main/static/images/filter.png" />
 
-## Summary 
+## Summary  
 
 While this site seems to work great for our purposes, one drawback is that it does not have anything in place to control user input. For example, in the state filter if a user put 'TX' instead of 'tx' the table would not return anything. To address this, one change that could be implemented is to programmatically alter the user input to lower case. Another change could be to add a drop down list of available options for every filter. That way, the user can't input something that doesn't exist or is in the wrong format.
   
