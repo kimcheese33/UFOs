@@ -1,7 +1,7 @@
 # UFO Sightings
 
 ## Overview
-
+ 
 The purpose of this project was to create a UFO Sightings website using Javascript, HTML, and CSS. In addition, the site features a filterable UFO sighting table.
 
 ## Results
